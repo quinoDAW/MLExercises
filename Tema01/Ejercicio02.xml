@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+	<book>
+		<title>Introduction to Java Programming. Comprehensive Version</title>
+		<author>Y. Daniel Liang</author>
+		<editorial>Prentice-Hall International Edition</editorial>
+		<isbn>9780133761313</isbn>
+	</book>
+	<book>
+		<title>Entornos de Desarrollo</title>
+		<author>Carlos Casado Iglesias</author>
+		<editorial>RA-MA</editorial>
+		<isbn>9788499641690</isbn>
+	</book>
+</library>
