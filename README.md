@@ -1,5 +1,5 @@
 # MLExercises
-Markup Language Exercises
+Markup Languages Exercises
 
 # Heading 1
 ## Heading 2
