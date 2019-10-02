@@ -3,7 +3,7 @@ Markup Languages Exercises
 
 ## Theme 01 - Introduction to Markup Languages
 
-Ejercicio | Enunciado
+Ejercicios | Enunciados
 -------------------- | --------------------------------------------------------------------------------
 [Ejercicio01.html](/Tema01/Ejercicio01.html) | Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección.
 [Ejercicio02.xml](/Tema01/Ejercicio02.xml) | Crea un documento xml que incluya información sobre un par de libros de una biblioteca.
