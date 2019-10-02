@@ -1,7 +1,7 @@
 # MLExercises
 Markup Languages Exercises
 
-![Markdowm mark](markdown-mark.png)
+![Mark of Markdowm](markdown-mark.svg)
 
 ## Theme 01 - Introduction to Markup Languages
 
