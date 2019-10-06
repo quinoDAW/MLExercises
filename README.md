@@ -8,6 +8,6 @@ Markup Languages Exercises
 Ejercicios | Enunciados
 -------------------- | --------------------------------------------------------------------------------
 [Exercise01.html](/Lesson01/Exercise01.html) | Crea una página web sencilla con un encabezado h1 y un pequeño párrafo de texto de tu elección.
-[Ejercicio02.xml](/Tema01/Ejercicio02.xml) | Crea un documento xml que incluya información sobre un par de libros de una biblioteca.
+[Exercise02.xml](/Lesson01/Exercise02.xml) | Crea un documento xml que incluya información sobre un par de libros de una biblioteca.
 [Ejercicio03.html](/Tema01/Ejercicio03.html) | ¿Qué es SVG? Busca un ejemplo.
 [Ejercicio04.md](/Tema01/Ejercicio04.md) | ¿Qué es markdown? Crea una cuenta en Github, si no la tienes ya. A continuación crea un proyecto nuevo que incluya una página “README.md”. Utiliza markdown que incluya varias cabeceras, texto, una lista, un gráfico y una tabla.
