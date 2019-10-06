@@ -3,7 +3,7 @@ Markup Languages Exercises
 
 ![Mark of Markdowm](markdown-mark.svg)
 
-## Theme 01 - Introduction to Markup Languages
+## Lesson 01 - Introduction to Markup Languages
 
 Ejercicios | Enunciados
 -------------------- | --------------------------------------------------------------------------------
