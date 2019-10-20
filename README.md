@@ -17,3 +17,6 @@ Exercises | Statements
 Exercises |
 -------------------- |
 [Exercise01.html](/Lesson02/Exercise01.html) |
+[Exercise02.html](/Lesson02/Exercise02.html) |
+[Exercise03.html](/Lesson02/Exercise03.html) |
+[Exercise04.html](/Lesson02/Exercise04.html) |
