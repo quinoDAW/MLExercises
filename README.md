@@ -11,3 +11,8 @@ Exercises | Statements
 [Exercise02.xml](/Lesson01/Exercise02.xml) | Crea un documento xml que incluya información sobre un par de libros de una biblioteca.
 [Exercise03.html](/Lesson01/Exercise03.html) | ¿Qué es SVG? Busca un ejemplo.
 [Exercise04.md](/Lesson01/Exercise04.md) | ¿Qué es markdown? Crea una cuenta en Github, si no la tienes ya. A continuación crea un proyecto nuevo que incluya una página “README.md”. Utiliza markdown que incluya varias cabeceras, texto, una lista, un gráfico y una tabla.
+
+## Lesson 02 - Initiation to HTML and CSS
+
+Exercises |
+-------------------- |
