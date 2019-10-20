@@ -16,3 +16,4 @@ Exercises | Statements
 
 Exercises |
 -------------------- |
+[Exercise01.html](/Lesson02/Exercise01.html) |
