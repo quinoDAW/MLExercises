@@ -23,3 +23,4 @@ Exercises |
 [Exercise05](/Lesson02/Exercise05/www.misitio.com) |
 [Exercise06](/Lesson02/Exercise06) |
 [Exercise07.html](/Lesson02/Exercise07.html) |
+[Exercise08.html](/Lesson02/Exercise08.html) |
