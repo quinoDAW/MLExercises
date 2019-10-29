@@ -16,11 +16,11 @@ Exercises | Statements
 
 Exercises |
 -------------------- |
-[Exercise01.html](/Lesson02/Exercise01.html) |
-[Exercise02.html](/Lesson02/Exercise02.html) |
-[Exercise03.html](/Lesson02/Exercise03.html) |
-[Exercise04.html](/Lesson02/Exercise04.html) |
-[Exercise05](/Lesson02/Exercise05/www.misitio.com) |
-[Exercise06](/Lesson02/Exercise06) |
-[Exercise07.html](/Lesson02/Exercise07.html) |
-[Exercise08.html](/Lesson02/Exercise08.html) |
+[exercise01.html](/lesson02/exercise01.html) |
+[exercise02.html](/lesson02/exercise02.html) |
+[exercise03.html](/lesson02/exercise03.html) |
+[exercise04.html](/lesson02/exercise04.html) |
+[exercise05](/lesson02/exercise05/www.misitio.com) |
+[exercise06](/lesson02/exercise06) |
+[exercise07.html](/lesson02/exercise07.html) |
+[exercise08.html](/lesson02/exercise08.html) |
