@@ -25,7 +25,7 @@ __This will also be bold__
    2. Item 3b
 
 ### Image
-![Image of GitHub octocat](/Lesson01/github-octocat.png)
+![Image of GitHub octocat](/lesson01/github-octocat.png)
 
 ### Table
 First Header | Second Header
