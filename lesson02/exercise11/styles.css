@@ -1,0 +1,65 @@
+h3 {
+	font-family: verdana;
+	text-align: center;
+	padding: 10px;
+	border-radius: 8px;
+}
+
+#heading01 {
+	background-color: GoldenRod;
+	color: WhiteSmoke;
+	border: 5px solid WhiteSmoke;
+}
+
+#heading02 {
+	background-color: OliveDrab;
+	color: MistyRose;
+	border: 5px solid MistyRose;
+}
+
+#heading03 {
+	background-color: FireBrick;
+	color: LightGrey;
+	border: 5px solid LightGrey;
+}
+
+#heading04 {
+	background-color: SteelBlue;
+	color: Moccasin;
+	border: 5px solid Moccasin;
+}
+
+p {
+	font-family: courier;
+	text-align: justify;
+}
+
+#paragraph01 {
+	background-color: WhiteSmoke;
+	color: GoldenRod;
+	border: 2px dotted GoldenRod;
+	padding: 50px;
+}
+
+#paragraph02 {
+	background-color: MistyRose;
+	color: OliveDrab;
+	border: 2px dashed OliveDrab;
+	margin: 30px;
+}
+
+#paragraph03 {
+	background-color: LightGrey;
+	color: FireBrick;
+	border: 2px double FireBrick;
+	margin: 50px;
+	padding: 30px;
+}
+
+#paragraph04 {
+	background-color: Moccasin;
+	color: SteelBlue;
+	border: 2px groove SteelBlue;
+	margin: 30px;
+	padding: 50px;
+}
