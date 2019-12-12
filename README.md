@@ -31,3 +31,6 @@ Exercises |
 [exercise13.html](/lesson02/exercise13.html) |
 [exercise14](/lesson02/exercise14) |
 [exercise15](/lesson02/exercise15) |
+exercise16 |
+[exercise17](/lesson02/exercise17) |
+exercise18 |
