@@ -29,3 +29,5 @@ Exercises |
 [exercise11](/lesson02/exercise11) |
 [exercise12.html](/lesson02/exercise12.html) |
 [exercise13.html](/lesson02/exercise13.html) |
+[exercise14](/lesson02/exercise14) |
+[exercise15](/lesson02/exercise15) |
